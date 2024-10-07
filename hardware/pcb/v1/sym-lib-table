@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SAO_Explorer")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/SAO_Explorer.kicad_sym")(options "")(descr ""))
+)

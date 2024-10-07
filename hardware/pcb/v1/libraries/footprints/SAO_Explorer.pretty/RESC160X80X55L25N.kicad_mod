@@ -1,0 +1,243 @@
+(footprint "RESC160X80X55L25N"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "7facad47-e262-4cbb-94d8-70d26650f618")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "VAL**"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7e5ef7b9-37a9-4a84-8505-3c1242a1b807")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25a8e5d4-7b2c-47f8-a4db-53c7fd02efed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a544d5e-de7d-491a-ad47-a1e3066c4c34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "118378b7-2ada-476c-a40c-965391880a61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.425 -0.675)
+		(end -0.475 -0.675)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "08e32f03-bd73-45e4-b2a8-83796ed2c21f")
+	)
+	(fp_line
+		(start -1.425 0.675)
+		(end -1.425 -0.675)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fc8ddd34-7ede-4b7a-b1c9-5662c44a8f28")
+	)
+	(fp_line
+		(start -0.475 0.675)
+		(end -1.425 0.675)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8c718fa1-c97a-4d62-afd3-afdb942b4e38")
+	)
+	(fp_line
+		(start 0.475 0.675)
+		(end 1.425 0.675)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20305d07-6c21-4110-b256-fe51a2f7a095")
+	)
+	(fp_line
+		(start 1.425 -0.675)
+		(end 0.475 -0.675)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "08e840d1-0b06-4cc6-b7b3-a1dd58de6476")
+	)
+	(fp_line
+		(start 1.425 0.675)
+		(end 1.425 -0.675)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98c80745-91a3-4ba7-9062-ce7d71776c1f")
+	)
+	(fp_line
+		(start -1.45 -0.7)
+		(end 1.45 -0.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b1c9e09d-36ab-4d1e-b316-743489f0b02d")
+	)
+	(fp_line
+		(start -1.45 0.7)
+		(end -1.45 -0.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5ae1865e-34aa-4b72-906f-714ea3b6c15d")
+	)
+	(fp_line
+		(start 1.45 -0.7)
+		(end 1.45 0.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "34cf72bc-7040-407a-bbfc-7ce3bc301680")
+	)
+	(fp_line
+		(start 1.45 0.7)
+		(end -1.45 0.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6aac4052-c6aa-4bfb-a10c-70bcf000acde")
+	)
+	(fp_line
+		(start -0.85 -0.45)
+		(end 0.85 -0.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5e39a9d8-2af8-4152-bced-807cf8c28db9")
+	)
+	(fp_line
+		(start -0.85 0.45)
+		(end -0.85 -0.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "404851cd-775b-45e3-85dc-a5adcda080fb")
+	)
+	(fp_line
+		(start 0.85 -0.45)
+		(end 0.85 0.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "74debb1d-7e03-46b7-8616-929ebc07ae16")
+	)
+	(fp_line
+		(start 0.85 0.45)
+		(end -0.85 0.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fb073317-78d2-4045-b1c9-e809cc0aa1a2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "8be9a879-e2d5-4962-a133-d0b6e97ae02b")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.045)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.8164 0)
+		(size 0.7673 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1303)
+		(uuid "0b8e71cc-24ea-4ca0-85cf-8cff214f26aa")
+	)
+	(pad "2" smd roundrect
+		(at 0.8164 0)
+		(size 0.7673 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1303)
+		(uuid "131bf2bd-bf2e-42c5-b54b-5fa323293165")
+	)
+	(model "${KIPRJMOD}/libraries/3dmodels/SAO_Explorer.3dshapes/RESC160X80X55L25N.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
