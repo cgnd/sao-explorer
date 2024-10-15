@@ -6030,7 +6030,7 @@
 		(uuid "1fe9cd93-747d-44ba-9d72-daaf557780f5")
 	)
 	(label "~{MIKROBUS_INT}"
-		(at 91.44 127 0)
+		(at 101.6 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6140,7 +6140,7 @@
 		(uuid "454ee3e8-409e-4775-9a6d-cc9948f3df43")
 	)
 	(label "MIKROBUS_AN"
-		(at 91.44 137.16 0)
+		(at 101.6 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6217,7 +6217,7 @@
 		(uuid "71622d24-d7dc-4596-8e57-7abd32f9e445")
 	)
 	(label "~{MIKROBUS_RST}"
-		(at 91.44 121.92 0)
+		(at 101.6 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6415,7 +6415,7 @@
 		(uuid "cea385cb-ce64-4e3f-b62b-3212da6a212e")
 	)
 	(label "MIKROBUS_PWM"
-		(at 91.44 132.08 0)
+		(at 101.6 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
