@@ -8,6 +8,8 @@ The SAO Explorer v1 is a [Simple Add-on](https://hackaday.io/project/175182-simp
 
 It also has a 2x5 0.050" (1.27mm) socket that allows a [Binho Nova](https://binho.io/products/usb-host-adaptor?variant=14141584343095) Multi-Protocol USB Host Adapter to be used as an I2C controller (instead of a badge). The [Binho Mission Control Software](https://support.binho.io/getting-started/binho-mission-control/download-and-installation) provides an easy-to-use GUI interface for quickly testing out new I2C devices without having to write a single line of code.
 
+Entry for the [Supercon 8 - Add On Contest](https://hackaday.io/contest/197237-supercon-8-add-on-contest): https://hackaday.io/project/198465-sao-explorer
+
 ![SAO_Explorer_v1_top](images/SAO_Explorer_v1_top.png)
 
 ![SAO_Explorer_v1_bottom](images/SAO_Explorer_v1_bottom.png)
